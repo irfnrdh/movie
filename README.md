@@ -1,6 +1,9 @@
 # movie
 just a list
 
+# Player 
+- https://gdriveplayer.io/
+
 # Tv Series
 - [x] 13 Reasons Why 
 - [x] The Naked Director
